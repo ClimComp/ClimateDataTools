@@ -1,0 +1,25 @@
+name: env1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - esgf-pyclient
+  - python=3.10
+  - ipykernel
+  - xarray
+  - metpy
+  - matplotlib
+  - tqdm
+  - ipywidgets
+  - pydap
+  - cftime
+  - zarr
+  - fsspec
+  - seaborn
+  - iris
+  - gcsfs
+  - geopandas
+  - lxml
+  - ffmpeg
+  - nappy
+prefix: C:\Users\username\Anaconda3\envs\new_env
