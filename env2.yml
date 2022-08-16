@@ -1,0 +1,19 @@
+name: cmip6-examples
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipykernel
+  - cftime
+  - cartopy
+  - numpy
+  - pandas
+  - xarray
+  - dask
+  - intake
+  - intake-esm
+  - fsspec
+  - gcsfs
+  - zarr
+  - esgf-pyclient
+  - cmocean
