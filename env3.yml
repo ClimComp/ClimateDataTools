@@ -17,4 +17,4 @@ dependencies:
   - gcsfs
   - ffmpeg
   - cmocean
-prefix: C:\Users\username\Anaconda3\envs\new_env
+prefix: C:\Users\username\Anaconda3\envs\anim-env
