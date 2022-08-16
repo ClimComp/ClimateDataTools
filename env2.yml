@@ -17,3 +17,4 @@ dependencies:
   - zarr
   - esgf-pyclient
   - cmocean
+prefix: C:\Users\username\Anaconda3\envs\new_env
