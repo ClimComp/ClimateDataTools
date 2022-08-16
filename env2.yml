@@ -17,4 +17,4 @@ dependencies:
   - zarr
   - esgf-pyclient
   - cmocean
-prefix: C:\Users\username\Anaconda3\envs\new_env
+prefix: C:\Users\username\Anaconda3\envs\cmip6-examples
