@@ -1,0 +1,20 @@
+name: anim-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipykernel
+  - cftime
+  - xesmf
+  - cartopy
+  - numpy
+  - pandas
+  - xarray
+  - xarrayutils
+  - dask
+  - zarr
+  - fsspec
+  - gcsfs
+  - ffmpeg
+  - cmocean
+prefix: C:\Users\username\Anaconda3\envs\anim-env
