@@ -5,6 +5,7 @@ dependencies:
   - python=3.10
   - ipykernel
   - cftime
+  - nc-time-axis
   - cartopy
   - numpy
   - pandas
