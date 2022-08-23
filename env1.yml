@@ -10,7 +10,8 @@ dependencies:
   - metpy
   - matplotlib
   - tqdm
-  - ipywidgets
+  #as of writing, the newest version of ipywidgets doesn't work so 7.7.1 is recommended
+  - ipywidgets=7.7.1
   - pydap
   - cftime
   - zarr
