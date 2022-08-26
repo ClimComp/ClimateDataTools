@@ -1,0 +1,34 @@
+name: all
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - esgf-pyclient
+  - python=3.10
+  - ipykernel
+  - xesmf
+  - cartopy
+  - xarray
+  - metpy
+  - matplotlib
+  - numpy
+  - pandas
+  - dask
+  - intake
+  - intake-esm
+  - tqdm
+  #as of writing, the newest version of ipywidgets doesn't work so 7.7.1 is recommended
+  - ipywidgets=7.7.1
+  - pydap
+  - cftime
+  - nc-time-axis
+  - zarr
+  - fsspec
+  - seaborn
+  - cmocean
+  - iris
+  - gcsfs
+  - geopandas
+  - lxml
+  - ffmpeg
+  - nappy
