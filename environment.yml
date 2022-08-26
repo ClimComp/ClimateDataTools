@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - esgf-pyclient
-  - python=3.10
+  - python=3.9
   - ipykernel
   - xesmf
   - cartopy
@@ -19,6 +19,8 @@ dependencies:
   - tqdm
   #as of writing, the newest version of ipywidgets doesn't work so 7.7.1 is recommended
   - ipywidgets=7.7.1
+  - urllib
+  - cdsapi
   - pydap
   - cftime
   - nc-time-axis
